@@ -1,0 +1,15 @@
+github "Alamofire/Alamofire"
+
+github "SwiftyJSON/SwiftyJSON"
+
+github "SnapKit/SnapKit"
+
+github "onevcat/Kingfisher"
+
+github "eggswift/pull-to-refresh"
+
+github "ccgus/fmdb"
+
+github "jdg/MBProgressHUD"
+
+##github "dzenbot/DZNEmptyDataSet"
